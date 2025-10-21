@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.yu</groupId>
+  <artifactId>spring-boot-jsch-parent</artifactId>
+  <versioning>
+    <lastUpdated>20251021102042</lastUpdated>
+    <snapshot>
+      <timestamp>20251021.102042</timestamp>
+      <buildNumber>13</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20251021.102042-13</value>
+        <updated>20251021102042</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>
