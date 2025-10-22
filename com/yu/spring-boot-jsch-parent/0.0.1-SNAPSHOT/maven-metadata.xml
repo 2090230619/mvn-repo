@@ -3,16 +3,16 @@
   <groupId>com.yu</groupId>
   <artifactId>spring-boot-jsch-parent</artifactId>
   <versioning>
-    <lastUpdated>20251021102621</lastUpdated>
+    <lastUpdated>20251022013338</lastUpdated>
     <snapshot>
-      <timestamp>20251021.102621</timestamp>
-      <buildNumber>14</buildNumber>
+      <timestamp>20251022.013338</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20251021.102621-14</value>
-        <updated>20251021102621</updated>
+        <value>0.0.1-20251022.013338-1</value>
+        <updated>20251022013338</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
