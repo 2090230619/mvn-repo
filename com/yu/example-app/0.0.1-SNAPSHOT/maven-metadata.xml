@@ -3,27 +3,27 @@
   <groupId>com.yu</groupId>
   <artifactId>example-app</artifactId>
   <versioning>
-    <lastUpdated>20251022013338</lastUpdated>
+    <lastUpdated>20251022020058</lastUpdated>
     <snapshot>
-      <timestamp>20251022.013338</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20251022.020058</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20251022.013338-1</value>
-        <updated>20251022013338</updated>
+        <value>0.0.1-20251022.020058-2</value>
+        <updated>20251022020058</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20251022.013338-1</value>
-        <updated>20251022013338</updated>
+        <value>0.0.1-20251022.020058-2</value>
+        <updated>20251022020058</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20251022.013338-1</value>
-        <updated>20251022013338</updated>
+        <value>0.0.1-20251022.020058-2</value>
+        <updated>20251022020058</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
